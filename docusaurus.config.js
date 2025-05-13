@@ -45,7 +45,7 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          routeBasePath: "/",
+          routeBasePath: "/docs",
           // Removed `tocMaxHeadingLevel` as it is not supported in Docusaurus 3.7.0
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
