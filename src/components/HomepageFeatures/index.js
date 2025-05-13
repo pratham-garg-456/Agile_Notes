@@ -51,14 +51,22 @@ function Feature({ Svg, title, description }) {
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+    <>
+      <section className={styles.welcomeSection}>
+        <div className="container text--center">
+          <h1>Welcome to Agile Notes</h1>
+          <p>Your go-to resource for Agile methodologies and practices.</p>
         </div>
-      </div>
-    </section>
+      </section>
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
