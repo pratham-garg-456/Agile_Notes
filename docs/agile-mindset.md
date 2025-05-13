@@ -6,7 +6,7 @@ sidebar_position: 2
 
 > _Imagine being handed a list of requirements and filling them into a backlog without feedback or adaptation. That may look Agile on paper, but without a continuous improvement mindset, you are missing the essence of true agility._
 
-Agile is not just a set of tools—it is a fundamental way of thinking about work.
+Agile is not just a set of tools - it is a fundamental way of thinking about work.
 
 ## Key Concepts
 
@@ -27,4 +27,4 @@ Agile artifacts—like product backlogs, boards, and sprint plans—are useful t
   A product backlog should continuously evolve with customer feedback and real-time insights instead of being a static list of requirements.
 
 - **Cultural Shift:**  
-  True agility hinges on a collaborative culture that embraces iterative development, responsive change, and constant communication. While tools support this mindset, they do not replace it.
+  True agility relies on a collaborative culture that embraces iterative development, responsive change, and constant communication. While tools support this mindset, they do not replace it.
