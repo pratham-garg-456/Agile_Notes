@@ -4,15 +4,6 @@ slug: /
 
 # Welcome to Agile Notes
 
-This website is your ultimate guide to understanding and mastering Agile methodologies. Whether you're new to Agile or an experienced practitioner, you'll find valuable resources and insights here.
+> _The way we do things becomes a part of our reality. If we believe that our current process is the only "right" way, we limit our ability to adapt and innovate. Embracing the Agile mindset means questioning established practices and welcoming continuous evolution._
 
-## Sections
-
-- **Agile Basics**: Dive into the fundamentals of Agile, including its principles, values, and key practices.
-- **Scrum Framework**: Learn about Scrum roles, events, artifacts, and how to implement Scrum effectively.
-- **Kanban**: Explore Kanban principles, workflows, and how to optimize processes for continuous delivery.
-- **Scaling Agile**: Understand frameworks like SAFe, LeSS, and Nexus for scaling Agile in large organizations.
-- **Agile Tools**: Discover tools and techniques for backlog management, sprint planning, and team collaboration.
-- **Special Topics**: Delve into advanced topics like Agile metrics, coaching, and organizational transformation.
-
-Each section is designed to provide clear explanations, practical examples, and best practices to help you excel in Agile practices.
+These notes record what I've learned about Agile so far, and they have been created for personal use. Feel free to explore them, and if you find any mistakes or have suggestions, please email me at prathamgarg456+notes@gmail.com.
